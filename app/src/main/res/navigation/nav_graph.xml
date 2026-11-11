@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.qadibi.alqawi.ui.dashboard.DashboardFragment"
+        android:label="@string/dashboard" />
+    <fragment
+        android:id="@+id/measurementsFragment"
+        android:name="com.qadibi.alqawi.ui.measurements.MeasurementsFragment"
+        android:label="@string/measurements" />
+    <fragment
+        android:id="@+id/journalFragment"
+        android:name="com.qadibi.alqawi.ui.journal.JournalFragment"
+        android:label="@string/journal" />
+    <fragment
+        android:id="@+id/healthCenterFragment"
+        android:name="com.qadibi.alqawi.ui.healthcenter.HealthCenterFragment"
+        android:label="@string/health_center" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.qadibi.alqawi.ui.settings.SettingsFragment"
+        android:label="@string/settings" />
+</navigation>

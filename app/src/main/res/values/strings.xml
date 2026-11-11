@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qadibi AlQawi</string>
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="measurements">القياسات</string>
+    <string name="journal">السجل</string>
+    <string name="health_center">مركز الصحة</string>
+    <string name="settings">الإعدادات</string>
+
+    <string name="welcome_title">مرحباً بك</string>
+    <string name="health_overview">نظرة عامة على الصحة</string>
+    <string name="latest_measurements">آخر القياسات</string>
+    <string name="monthly_ejaculation">الإفراز الشهري</string>
+    <string name="overview_placeholder">إحصائياتك الشخصية، ملاحظاتك، ومؤشراتك اليومية.</string>
+    <string name="health_notes">ملاحظات صحية</string>
+    <string name="medical_disclaimer">هذا التطبيق أداة تعليمية وتتبع شخصي فقط. لا يشكل تشخيصاً طبياً.</string>
+    <string name="developer_mode">وضع المطور</string>
+    <string name="security_pin">PIN الحماية</string>
+    <string name="backup_restore">نسخ احتياطي واستعادة</string>
+</resources>

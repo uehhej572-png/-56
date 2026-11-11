@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboardFragment"
+        android:title="@string/dashboard"
+        android:icon="@android:drawable/ic_menu_home" />
+    <item
+        android:id="@+id/measurementsFragment"
+        android:title="@string/measurements"
+        android:icon="@android:drawable/ic_menu_sort_by_size" />
+    <item
+        android:id="@+id/journalFragment"
+        android:title="@string/journal"
+        android:icon="@android:drawable/ic_menu_agenda" />
+    <item
+        android:id="@+id/healthCenterFragment"
+        android:title="@string/health_center"
+        android:icon="@android:drawable/ic_menu_myplaces" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="@string/settings"
+        android:icon="@android:drawable/ic_menu_preferences" />
+</menu>
